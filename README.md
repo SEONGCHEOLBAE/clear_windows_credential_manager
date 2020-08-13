@@ -1,7 +1,7 @@
 # Clear Windows Credential Manager
 
 * clear-all-cert.cmd
-** Range is blue line
+  * Range is blue line
 
 `raw`
 ```bat
@@ -18,7 +18,7 @@ pause
 
 
 * clear-only-win-cert.cmd
-** Range is red line
+  * Range is red line
 
 `raw`
 ```bat
@@ -34,7 +34,7 @@ pause
 ```
 
 * disable_cert.bat
-** Range is red line
+  * Range is red line
 
 `raw`
 ```
