@@ -1,7 +1,8 @@
 # Clear Windows Credential Manager
-
+IMAGE
+![Test Image 1](https://github.com/SEONGCHEOLBAE/clear_windows_credential_manager/blob/master/cap1.PNG)
 * clear-all-cert.cmd
-  * Range is `cap1.PNG`blue line
+  * Range is blue line
 
 `raw`
 ```bat
@@ -18,7 +19,7 @@ pause
 
 
 * clear-only-win-cert.cmd
-  * Range is `cap1.PNG`red line
+  * Range is red line
 
 `raw`
 ```bat
@@ -34,7 +35,7 @@ pause
 ```
 
 * disable_cert.bat
-  * Range is `cap1.PNG`red line
+  * Range is red line
 
 `raw`
 ```
